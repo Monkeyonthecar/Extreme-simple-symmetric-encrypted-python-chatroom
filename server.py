@@ -5,7 +5,7 @@ from Crypto.Util.Padding import unpad
 from Crypto.Util.Padding import pad
 
 #change this key if you want, as long it is the same on client and server and 16bytes(128bits) or 24(192bits) or 32byte(256bits)
-key = b'16bytepasswordd!'
+key = b'16bytepasswordd!'# key is for symmetric encryption
 
 #basic socket server
 print('Setup Server...')
