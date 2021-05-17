@@ -1,6 +1,8 @@
 # Extreme-simple-encrypted-python-chatroom
 A REALLY simple and easy to understand python chatserver. Could not find a very basic, simple to understand python encrypted chatroom on github( only found more complicated chatroom's with multiple files,libraries and functions, just not simple enough). So i created one myself.
 
+This program makes use of symmetric encryption.
+
 Requirement:
 -pycryptodome (pip install pycryptodome)
 
